@@ -3,7 +3,7 @@ x.inneri | everything Inner I
 
 ## X Inner I
 [Inner I Net Company](https://innerinetcompany.com) | [About](https://innerinetcompany.com/about/) | [Products](https://innerinetcompany.com/products/)
-- - [ShapeReality.InnerINetCompany/](http://shapereality.innerinetcompany.hns.to/)
+- [ShapeReality.InnerINetCompany/](http://shapereality.innerinetcompany.hns.to/)
 - [xme.inneri/](http://xme.inneri.hns.to/)
 <a href="https://twitter.com/innerinetco?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @innerinetco</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
